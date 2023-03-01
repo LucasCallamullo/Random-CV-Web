@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+
+    <link rel="icon" type="image/x-icon" href="https://cdn-icons-png.flaticon.com/512/3135/3135686.png">
+
+    <link rel="stylesheet" href="index.css">
+    <title> Proyecto Final CV </title>
+</head>
+
+<body>
+    <h1> Curriculum Vitae </h1>
+
+    <div class="contenedor">
+        <img src="" alt="perfil_user" id="foto">
+
+        <h2> 
+            <p> Nombre: <span id="name_cv"></span></p>
+            <p> Apellido: <span id="lastname_cv"></span></p>
+            <p> Analista en Sistemas </p>
+        </h2>
+        
+        <h3> Nacionalidad</h3>
+        <p><span id="nat_cv"></span></p>
+
+        <h3> Edad </h3>
+        <p><span id="age_cv"></span></p>
+
+        <h3> Información de Contacto </h3>
+        <p> Correo: <span id="email_cv"></span></p>
+        <p> Celular: <span id="cell_cv"></span></p>
+        <p> Telefono: <span id="phone_cv"></span></p>
+
+        <h3> Dirección de Contacto</h3>
+        <p> Calle: <span id="street_cv"></span></p>
+        <p> Ciudad: <span id="city_cv"></span></p>
+        <p> Codigo Postal: <span id="postcode_cv"></span></p>
+
+        <h3> Estudios Academicos</h3>
+        <p> Secundario: <span>Completo </span></p>
+        <p> Titulo: <span>Bachiller en Economía y Gestión Organizacional </span></p>
+        <p> Universidad: <span>Completo </span></p>
+        <p> Titulo: <span> Analista en Sistemas</span></p>
+
+        <h3> Lenguajes de Programación </h3>
+        <ul>
+            <li><p> Python </p></li>
+            <li><p> JavaScript </p></li>
+            <li><p> HTML </p></li>
+            <li><p> CSS </p></li>
+        </ul>
+
+        <h3> Idiomas </h3>
+        <button id="boton1" onclick="mostrar()"> Mostrar Idiomas</button>
+        <div id="idiomas_cv"> 
+            <ul>
+                <li><p> Español: <span>Avanzado </span></p></li>
+                <li><p> Inglés: <span>Intermedio </span></p></li>
+                <li><p> Francés: <span>Básico </span></p></li>
+            </ul>
+            <button id="boton2" onclick="ocultar()"> Ocultar Idiomas</button>
+        </div>
+
+        <h3> Mis Proyectos </h3>
+
+        <p> <a href="LucasCallamullo.github.io/index.html"> Portfolio </a> </p>
+    </div>
+
+    <button id="boton"> Generar Nuevo CV </button>
+
+    <script src="index.js"> </script>
+</body>
+</html>
