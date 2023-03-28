@@ -19,4 +19,3 @@ En el siguiente proyecto, podemos encontrar el uso de:
 
 En "webcveexample.jpg" y "webcveexample2.jpg" puedes ver el diseño de la pag
 
-[https://github.com/LucasCallamullo/Random-CV-Web/blob/proyectofinal/webcvejemplo.jpg](https://static.eldiario.es/clip/ab74aa95-3656-424c-8ca1-dce590aabb97_16-9-discover-aspect-ratio_default_0.webp)
