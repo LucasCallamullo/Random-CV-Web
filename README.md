@@ -8,7 +8,7 @@ In the following project, we can find the use of:
 * JavaScript for the use of interactive buttons and events
 * Use of API's
 
-In "webcveexample.jpg" and "webcveexample2.jpg" you can see the design of the pag
+In "images" you can see examples of the design of the pag
 
 
 ## [ES]
@@ -19,6 +19,8 @@ En el siguiente proyecto, podemos encontrar el uso de:
 * JavaScript para el uso de botones y eventos interactivos
 * Uso de API
 
-En "webcveexample.jpg" y "webcveexample2.jpg" puedes ver el diseño de la pag
+En "images" poder ver ejemplos del diseño de la pagina
 
+
+* for example:
 ![](https://github.com/LucasCallamullo/Random-CV-Web/blob/proyectofinal/images/webcvejemplo.jpg)
