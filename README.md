@@ -19,4 +19,4 @@ En el siguiente proyecto, podemos encontrar el uso de:
 
 En "webcveexample.jpg" y "webcveexample2.jpg" puedes ver el diseño de la pag
 
-https://github.com/LucasCallamullo/Random-CV-Web/edit/proyectofinal/
+https://github.com/LucasCallamullo/Random-CV-Web/blob/proyectofinal/webcvejemplo.jpg
